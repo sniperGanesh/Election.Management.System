@@ -7,7 +7,7 @@ using System.Net;
 
 namespace Election.Management.Repository
 {
-    public class ElectionManagementSystemRepository : IElectionManagementSystemRepository
+    public class ElectionManagementSystemRepository :  IElectionManagementSystemRepository
     {
         #region Initialization
 
