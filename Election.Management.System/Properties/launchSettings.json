@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Election.Management.System": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7263",
+      "launchBrowser": false
+    }
+  }
+}
